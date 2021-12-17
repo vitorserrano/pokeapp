@@ -1,6 +1,6 @@
 import React from 'react'
-import { Pokemons } from './src/screens/Pokemons'
+import { Routes } from './src/routes'
 
 export default function App() {
-  return <Pokemons />
+  return <Routes />
 }
